@@ -1,0 +1,114 @@
+body{
+    margin:0;
+    font-family:Arial, sans-serif;
+    background:#f0fff0;
+}
+
+
+header{
+    background:#2e8b57;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+
+.logo{
+    width:100px;
+}
+
+
+nav{
+    background:#1f6b3a;
+    padding:15px;
+    text-align:center;
+}
+
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:20px;
+    font-weight:bold;
+}
+
+
+.about-banner{
+    text-align:center;
+    padding:40px;
+    background:#d8f3dc;
+}
+
+
+.about-banner h2{
+    color:#1b4332;
+}
+
+
+.about-content{
+    display:flex;
+    align-items:center;
+    gap:30px;
+    padding:40px;
+}
+
+
+.farm-image{
+    width:45%;
+    border-radius:15px;
+}
+
+
+.text{
+    font-size:18px;
+}
+
+
+.title{
+    text-align:center;
+    color:#2d6a4f;
+}
+
+
+.features{
+    display:flex;
+    justify-content:center;
+    gap:30px;
+    padding:30px;
+}
+
+
+.card{
+    background:white;
+    width:250px;
+    text-align:center;
+    padding:20px;
+    border-radius:15px;
+    box-shadow:0 5px 15px #aaa;
+}
+
+
+.card img{
+    width:100px;
+}
+
+
+.card h3{
+    color:#2e8b57;
+}
+
+
+.objective{
+    background:#d8f3dc;
+    padding:30px;
+    margin:30px;
+    border-radius:15px;
+}
+
+
+footer{
+    background:#2e8b57;
+    color:white;
+    text-align:center;
+    padding:15px;
+}
